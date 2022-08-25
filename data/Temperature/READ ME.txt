@@ -1,0 +1,4 @@
+For each year you want to perform studies on, create a folder called <year>, create a folder within that called "Raw", and place the prism data EXACTLY AS DOWNLOADED within it. for example, 2016 would look like:
+"2016/Raw/PRISM_tmean_stable_4kmM3_2016_all_bil.zip"
+
+(prism data can be downloaded from: https://www.prism.oregonstate.edu/recent/)

@@ -1,0 +1,5 @@
+Please download the BBS spatial route database and place it in "Raw" EXACTLY AS DOWNLOADED. For example, you should end up with:
+
+"Raw/Breeding Bird Survey Route Locations for Lower 48 States.zip"
+
+(The dataset can be downloaded from https://databasin.org/datasets/02fe0ebbb1b04111b0ba1579b89b7420/)

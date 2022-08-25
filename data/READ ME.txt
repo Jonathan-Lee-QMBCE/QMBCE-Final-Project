@@ -1,0 +1,13 @@
+The BBS DATA, Temperature data, and Route Locations data should all be downloaded and placed in their respective folders (details for each can be found in their respective folders).
+
+For the NLCD land cover, create a folder for the year you would like to study, create a folder within that named "landcover", and extract the contents of the NLCD file downloaded to that location. For example, 2016's land cover would result in:
+
+2016/
+     landcover/
+               NLCD_16_LC.rrd
+               NLCD_16_LC.xml
+               NLCD_16_LC.rde
+               NLCD_16_LC.img
+               NLCD_16_LC.ige
+
+(the cover data can be downloaded from https://www.mrlc.gov/data?f%5B0%5D=category%3ALand%20Cover&f%5B1%5D=region%3Aconus)

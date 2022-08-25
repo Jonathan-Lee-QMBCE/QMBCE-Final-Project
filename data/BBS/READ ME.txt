@@ -1,0 +1,5 @@
+Download and place the BBS data in the "Raw" folder exactly as it was when downloaded. For example, you should end up with:
+
+"Raw/2020Release_Nor.zip"
+
+(BBS data can be downloaded from https://www.pwrc.usgs.gov/BBS/RawData/)

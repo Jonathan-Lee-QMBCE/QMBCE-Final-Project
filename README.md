@@ -1,0 +1,1 @@
+This represents the code for my final project on distance-weighted neighbourhood effects. The code is complete, but the data sources it uses will need to be downloaded before it can be run. Details of where to download them can be found in the "data" folder.
